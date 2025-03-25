@@ -1,11 +1,8 @@
 <h1 align="center" id="title">Sentiment Analysis Using IMDb Reviews</h1>
-[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ChandanDev27.https://github.com/ChandanDev27/Sentiment-Analysis-Using-IMDb-Reviews)](https://github.com/ChandanDev27/Sentiment-Analysis-Using-IMDb-Reviews)
 
 ![Sentiment-Analysis-Using-IMDb-Reviews](https://socialify.git.ci/ChandanDev27/Sentiment-Analysis-Using-IMDb-Reviews/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Auto)
 
 <p id="description">This project is all about analyzing IMDb movie reviews to understand the emotions and sentiments hidden in them. Using advanced machine learning techniques particularaly a BiLSTM neural network we’ve developed a model that doesn’t just classify reviews as positive or negative but also digs deeper into specific aspects like acting music and storytelling.</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan27112004&label=stat&color=0e75b6&style=flat" alt="chandan27112004" /> </p>
 
 <h2>Project Screenshots:</h2>
 
