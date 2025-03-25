@@ -6,11 +6,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="" alt="project-screenshot" width="1185" height="490/">
+<img src="Result/Figure 2025-03-25 081325.png" alt="project-screenshot" width="1185" height="490/">
 
-<img src="" alt="project-screenshot" width="989" height="590/">
+<img src="Result/Figure 2025-03-25 081356.png" alt="project-screenshot" width="989" height="590/">
 
-<img src="" alt="project-screenshot" width="935" height="390/">
+<img src="Result/output.PNG" alt="project-screenshot" width="935" height="390/">
 
   
   
